@@ -1,16 +1,31 @@
-# 你好！👋欢迎来到我的GitHub主页！
 
-## 在这里你可以找到我正在进行的项目和代码。希望我们能一起学习和进步！
 
-大家好💕我是周妍，2001年出生，来自重庆～
+<!--
+  <<< Author notes: Finish >>>
+  Review what we learned, ask for feedback, provide next steps.
+-->
 
-🥸目前就读于北京大学社会学系  
+## Finish
 
-🤯研究方向为数字社会研究、平台劳动、数字健康～，**cv**和**rp**可下载！
+_Congratulations friend, you've completed this course!_
 
-🐈家里有四只小猫，分别是海参、七七、臭哥、鼠哥，👏欢迎大家来撸猫  
-📮gottayan@163.com  
+<img src=https://octodex.github.com/images/constructocat2.jpg alt=celebrate width=300 align=right>
 
-<img src="https://github.com/user-attachments/assets/d1bc430c-5aa6-4f04-9bbb-b445ec9c93c1" alt="448855409_455867377158579_4878161403458475860_n" width="300"/>
+Your blog is now live and has been deployed!
+
+Here's a recap of all the tasks you've accomplished in your repository:
+
+- You enabled GitHub Pages.
+- You selected a theme using the config file.
+- You learned about proper directory format and file naming conventions in Jekyll.
+- You created your first blog post with Jekyll!
+
+### What's next?
+
+- Keep working on your GitHub Pages site... we love seeing what you come up with!
+- We'd love to hear what you thought of this course [in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages).
+- [Take another GitHub Skills course](https://github.com/skills).
+- [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started).
+- To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
 
 
